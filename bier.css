@@ -12,19 +12,31 @@ footer {
 
 @media screen and (min-width: 100px) and (max-width: 600px) {
     body div img {
-      height: 250px;
+      height: 350px;
       width: 400px;
     }
 }
 
 @media screen and (min-width: 100px) and (max-width: 600px) {
+.weg {
+      display: none;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
   body div form {
-      padding-left: 280px;
+      padding-left: 0px;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+  body div form {
+      padding-left: 0px;
     }
 }
 
 @media screen and (min-width: 600px) {
   body div form {
-      padding-left: 400px;
+      padding-left: 460px;
     }
 }

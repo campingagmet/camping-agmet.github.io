@@ -9,3 +9,34 @@ footer {
   width: 100%;
   height: 170px;
 }
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+    body div img {
+      height: 300px;
+      width: 500px;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+.weg {
+      display: none;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+  body div form {
+      padding-left: 0px;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 600px) {
+  body div form {
+      padding-left: 210px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+  body div form {
+      padding-left: 460px;
+    }
+}
