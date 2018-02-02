@@ -3,10 +3,13 @@ body, html {
     height: 100%;
     line-height: 1.8;
 }
-footer {
-    bottom: 0;
-    width: 100%;
-    height: 100px;
+
+footer{
+	bottom: 0;
+  background-color: #5E5E5E;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
 }
 
 /* Popup container - can be anything you want */
